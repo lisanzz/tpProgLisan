@@ -1,0 +1,102 @@
+Create proc [dbo].[cargarBarrios]
+as
+select id_barrio, barrio, id_ciudad
+from barrios
+
+
+Create procedure [dbo].[ModificarCliente]
+@id_cliente int,
+@nombre varchar(40),
+@apellido varchar(40),
+@fecha_nac smalldatetime,
+@telefono int,
+@email varchar(30),
+@id_barrio int,
+@calle varchar(20),
+@altura int,
+@id_tipo_doc int,
+@nro_doc int 
+as
+update clientes
+set nombre = @nombre,
+apellido = @apellido,
+fecha_nac = @fecha_nac,
+teléfono = @telefono,
+email = @email,
+id_barrio = @id_barrio,
+calle = @calle,
+altura = @altura,
+id_tipo_doc = @id_tipo_doc,
+nro_doc = @nro_doc
+where id_cliente = @id_cliente
+
+
+Create procedure [dbo].[sp_consultar_cliente_id]
+@id_cliente int
+as
+select  id_cliente, nombre, apellido, fecha_nac, teléfono, email, id_barrio, calle, altura, id_tipo_doc, nro_doc
+from clientes
+where id_cliente = @id_cliente
+
+
+
+CREATE procedure [dbo].[SP_ELIMINAR_CLIENTE]
+@id_cliente int
+as
+ALTER TABLE dbo.COMPROBANTES ALTER COLUMN id_cliente INT NULL;
+ALTER TABLE dbo.reservas ALTER COLUMN id_cliente INT NULL;
+UPDATE dbo.COMPROBANTES SET id_cliente = NULL WHERE id_cliente = @id_cliente;
+UPDATE dbo.reservas SET id_cliente = NULL WHERE id_cliente = @id_cliente;
+DELETE FROM dbo.clientes WHERE id_cliente = @id_cliente;
+
+
+CREATE procedure [dbo].[spActualizarCliente]
+@id_cliente int,
+@nombre varchar(40),
+@apellido varchar(40),
+@fecha_Nac smalldatetime,
+@telefono int,
+@email varchar(30),
+@id_Barrio int,
+@calle varchar(20),
+@altura int, 
+@id_Tipo_Doc int,
+@nro_Doc int
+
+as
+update clientes
+set nombre= @nombre,
+apellido  =@apellido,
+fecha_nac = @fecha_nac,
+teléfono = @telefono,
+email = @email,
+id_barrio = @id_Barrio,
+calle = @calle,
+altura= @altura,
+id_tipo_doc= @id_Tipo_Doc,
+nro_doc = @nro_Doc
+
+
+
+Create proc [dbo].[spCargarTipoDocumento]
+as
+select id_tipo_doc, tipo_doc
+from tipos_documentos
+
+
+CREATE procedure [dbo].[spConsultarClientes]
+as
+select * from clientes
+
+
+
+update clientes 
+set fecha_nac = '12/01/1947 '
+where id_cliente= 21
+
+
+
+ALTER TABLE clientes
+ALTER COLUMN  teléfono  int
+
+
