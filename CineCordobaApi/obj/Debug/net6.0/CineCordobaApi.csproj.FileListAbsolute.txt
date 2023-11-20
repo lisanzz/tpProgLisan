@@ -1,0 +1,206 @@
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.Properties.Resources.resources
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaApi.props
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaApi.styles.css
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\refint\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\CineCordobaApi.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaApi\obj\Debug\net6.0\ref\CineCordobaApi.dll
