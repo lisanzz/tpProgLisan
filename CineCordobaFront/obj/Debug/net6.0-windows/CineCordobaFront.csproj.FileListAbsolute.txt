@@ -1,0 +1,487 @@
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Form1.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTP\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\tpporgfinal\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\Nueva carpeta (2)\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\tpprog1\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\testmodificar\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\qqq\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\testapi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\lista\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\api\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmLoginVendedor.resources
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+C:\Users\lisanzz\Desktop\dropymodi - copia\CineCordobaTpTest\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
